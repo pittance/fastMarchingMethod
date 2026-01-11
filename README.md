@@ -9,7 +9,7 @@ The isolines are closer where the image is darker, further apart where the image
 This is implemented using the FMM where the speed of propagation is defined by the brightness of an input image
 
 Installation:
-Download all files & the data folder and put them into your sketchbook folder
+Download the "fastMarchingMethod" folder, all files & the data folder it contains and put them into your sketchbook folder
 
 Processing:
 Code was written in Processing 4.4.7 but should work in most recent versions of Processing
